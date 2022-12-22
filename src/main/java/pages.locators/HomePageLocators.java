@@ -14,6 +14,4 @@ public class HomePageLocators {
     public WebElement shopElectric;
 
 
-
-
  }
